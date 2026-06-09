@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 "I am currently architecting a C++ Transaction Engine to master Data Structures and Algorithms. <br>👯 I’m looking to collaborate on Beginner-friendly C++ or Python projects and Hackathons<br>🌱 I’m currently learning Python Web Frameworks to eventually port this logic into a full-stack web application<br>⚡ Fun fact :I built my first banking simulation in my first semester
+🔭 "I am currently architecting a C++ Transaction Engine to master Data Structures and Algorithms. <br>👯 I’m looking to collaborate on Beginner-friendly C++ or Python projects and Hackathons<br>🌱 I’m currently learning Python Web Frameworks to eventually port the logics into a full-stack web application<br>⚡ Fun fact :I was selected in the internal round of Smart India Hackathon from my university in my first semester
 
 
 ## 🌐 Socials:
